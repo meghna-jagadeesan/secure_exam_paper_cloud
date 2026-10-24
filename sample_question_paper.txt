@@ -1,0 +1,6 @@
+CLOUD COMPUTING - SAMPLE TEST
+
+1. Define cloud computing.
+2. Explain IaaS, PaaS and SaaS.
+3. State two benefits of cloud storage.
+4. What is role-based access control?
